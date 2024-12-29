@@ -1,16 +1,15 @@
-## Hi there 👋
+### 🔗👋Hi there, I'm Christian Ukoh!
 
-<!--
-**craftAnalyst/craftAnalyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate data analyst/scientist committed to transforming complex datasets into actionable insights that drive meaningful outcomes. My expertise lies in uncovering trends, optimizing processes, and delivering data-driven solutions that empowers organizations to make smarter decisions.
 
-Here are some ideas to get you started:
+**🔗🔧Skills and Expertise**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔹Data Analysis Tools:** Microsoft Excel, Tableau, Power BI, and IBM SPSS  
+**🔹Programming Languages:** Python and R programing language  
+**🔹Data analytics:** data analysis, modeling, machine learning, visualization, Google BigQuery, reporting and story telling  
+**🔹Database Management:** Adept at using SQL for querying and managing big data  
+**🔹Survey Tools:** Competent in utilizing Google Forms for survey design and data collection  
+**🔹Soft Skills:** Critical and Analytical thinking, solution oriented, Team collaboration and management, Competent written and oral communication, Attention to details, Presentation and research.
+
+<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
+[![Christian Ukoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftAnalyst&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
