@@ -10,6 +10,7 @@ I am a passionate data analyst/scientist committed to transforming complex datas
 **🔹Database Management:** Adept at using SQL for querying and managing big data  
 **🔹Survey Tools:** Competent in utilizing Google Forms for survey design and data collection  
 **🔹Soft Skills:** Critical and Analytical thinking, solution oriented, Team collaboration and management, Competent written and oral communication, Attention to details, Presentation and research.  
+
 I bring a detail-oriented and solution-focused approach to every project, striving to empower organizations with data-driven insights that drive growth and innovation. 
 Whether you're looking to optimize processes, uncover trends, or solve complex challenges, I am ready to deliver tailored solutions that exceed expectations.
 
