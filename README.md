@@ -6,7 +6,7 @@ I am a passionate data analyst/scientist committed to transforming complex datas
 
 **🔹Data Analysis Tools:** Microsoft Excel, Tableau, Power BI, and IBM SPSS  
 **🔹Programming Languages:** Python and R programing language  
-**🔹Data analytics:** data analysis, modeling, machine learning, visualization, Google BigQuery, reporting and story telling  
+**🔹Data Techniques:** data Preparation analysis, modeling, machine learning, visualization, Google BigQuery, reporting and story telling  
 **🔹Database Management:** Adept at using SQL for querying and managing big data  
 **🔹Survey Tools:** Competent in utilizing Google Forms for survey design and data collection  
 **🔹Soft Skills:** Critical and Analytical thinking, solution oriented, Team collaboration and management, Competent written and oral communication, Attention to details, Presentation and research.  
