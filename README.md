@@ -1,6 +1,6 @@
 ### 🔗👋Hi there, I'm Christian Ukoh!
 
-I am a passionate data analyst/scientist committed to transforming complex datasets into actionable insights that drive meaningful outcomes. My expertise lies in uncovering trends, optimizing processes, and delivering data-driven solutions that empowers organizations to make smarter decisions.
+I am a dedicated data analyst/scientist committed to transforming complex datasets into actionable insights that drive meaningful outcomes. My expertise lies in uncovering trends, optimizing processes, and delivering data-driven solutions that empowers organizations to make smarter decisions.
 
 **🔗🔧Skills and Expertise**
 
