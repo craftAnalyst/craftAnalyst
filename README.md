@@ -5,6 +5,7 @@ I am a dedicated data analyst/scientist committed to transforming complex datase
 **🔗🔧Skills and Expertise**
 
 **🔹Data Analysis and Report Tools:** Microsoft 365, Tableau, Power BI, and IBM SPSS  
+**🔹Microsoft Ecosystem & AI Tools:** Advanced in Office 365 (Excel, Word, PowerPoint), experienced with SharePoint, Power Automate, Power Apps, and Azure AI tools including Copilot integration.  
 **🔹Programming Languages:** Python and R programing language  
 **🔹Data Techniques:** data Preparation analysis, modeling, machine learning, visualization, Google BigQuery, reporting and story telling  
 **🔹Database Management:** Adept at using SQL for querying and managing big data, Azure Cloud
