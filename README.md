@@ -14,5 +14,5 @@ I am a dedicated data analyst/scientist committed to transforming complex datase
 I bring a detail-oriented and solution-focused approach to every project, striving to empower organizations with data-driven insights that drive growth and innovation. 
 Whether you're looking to optimize processes, uncover trends, or solve complex challenges, I am ready to deliver tailored solutions that exceed expectations.
 
-<!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
+<!-- Github stats from https://github.com/craftAnalyst/github-readme-stats -->
 [![Christian Ukoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=craftAnalyst&count_private=true&show_icons=true&theme=radical&hide_rank=false)]
